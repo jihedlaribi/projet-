@@ -1,0 +1,5 @@
+{
+    "db":"mongodb+srv://rest-api:0000@cluster0.xlppu.mongodb.net/authan?retryWrites=true&w=majority",
+    "secret":"jihed"
+
+}
